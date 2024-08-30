@@ -1,11 +1,8 @@
 ﻿using System;
-<<<<<<< HEAD
-=======
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
->>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
 
 namespace ejercicio10
 {
@@ -13,7 +10,6 @@ namespace ejercicio10
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             /* Dada una frase cualquiera llamada x, 
              * mostrar como resultado una frase formada por la segunda mitad de x más la primer mitad de x. 
              * (usar el método substring)
@@ -32,17 +28,6 @@ namespace ejercicio10
             bienvenidaAlReves = bienvenidaSegundaMitad + " " + bienvenidaPrimeraMitad;
 
             Console.WriteLine(bienvenidaAlReves);
-=======
-
-
-            string bienvenida = "Bienvenidos al lenguaje de programacion C#";
-            string bienvenida2;
-
-
-            bienvenida2 = bienvenida.Substring(5,10);
-
-            Console.WriteLine(bienvenida2);
->>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
 
             Console.ReadKey();
 

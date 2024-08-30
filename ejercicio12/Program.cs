@@ -10,7 +10,6 @@ namespace ejercicio12
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
 
             /*Mostrar la fecha y hora actual.*/
 
@@ -24,9 +23,6 @@ namespace ejercicio12
 
             Console.ReadKey();
 
-
-=======
->>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
         }
     }
 }

@@ -19,11 +19,7 @@ namespace ejercicio2
         static void Main(string[] args)
         {
 
-<<<<<<< HEAD
             /*Desarrollar  una aplicación de consola que tomando 2 números informe cuantos números hay entre los dos.*/
-
-=======
->>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
             int n1, n2, total;
             Console.Write("Agrega un número: ");
             n1 = Convert.ToInt32(Console.ReadLine());

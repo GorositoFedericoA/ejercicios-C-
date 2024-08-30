@@ -10,7 +10,6 @@ namespace ejercicio15
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             /*Informar cuantos días faltan para el 25/12/2020 -> (25/12/2024).*/
 
             DateTime fechaActual = DateTime.Now;
@@ -26,8 +25,6 @@ namespace ejercicio15
             Console.ReadKey();
 
 
-=======
->>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
         }
     }
 }

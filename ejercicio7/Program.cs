@@ -20,15 +20,11 @@ namespace ejercicio7
         }
         static void Main(string[] args)
         {
-<<<<<<< HEAD
 
             /*Si 1Byte tiene 8 bits, desarrolle una solución programática 
              * que permita calcular cuántos bits hay en cualquier combinación de x KBytes. 
              * Explique cómo llegó a esa conclusión.*/
 
-
-=======
->>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
             int Kbyte, bits;
 
             Console.Write("Ingrese N Kbytes: ");

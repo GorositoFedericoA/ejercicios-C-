@@ -17,11 +17,7 @@ namespace ejercicio3
 
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             /*Dados los lados de un triangulo calcular el perímetro.*/
-=======
-
->>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
             int lado1, lado2, lado3 = 10;
             int peri;
 

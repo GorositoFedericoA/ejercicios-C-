@@ -17,12 +17,8 @@ namespace ejercicio4
 
         static void Main(string[] args)
         {
-
-<<<<<<< HEAD
             /*Dados los datos necesarios de un Cuadrado calcular la superficie.*/
 
-=======
->>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
             int lado1;
             int Superf;
 
