@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\fgoro\\source\\repos\\Tp1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3CE483BF-ADEB-4DC8-BC62-52825A9747C9}|ejercicio10\\ejercicio10.csproj|c:\\users\\fgoro\\source\\repos\\tp1\\ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CE483BF-ADEB-4DC8-BC62-52825A9747C9}|ejercicio10\\ejercicio10.csproj|solutionrelative:ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29141566-FC8F-469C-A620-DF59D1D5FD59}|ejercicio9\\ejercicio9.csproj|c:\\users\\fgoro\\source\\repos\\tp1\\ejercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29141566-FC8F-469C-A620-DF59D1D5FD59}|ejercicio9\\ejercicio9.csproj|solutionrelative:ejercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE8EB771-7B53-441A-A8A1-DE274AC55085}|ejercicio8\\ejercicio8.csproj|C:\\Users\\fgoro\\source\\repos\\Tp1\\ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE8EB771-7B53-441A-A8A1-DE274AC55085}|ejercicio8\\ejercicio8.csproj|solutionrelative:ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fgoro\\source\\repos\\Tp1\\ejercicio10\\Program.cs",
-              "RelativeDocumentMoniker": "ejercicio10\\Program.cs",
-              "ToolTip": "C:\\Users\\fgoro\\source\\repos\\Tp1\\ejercicio10\\Program.cs",
-              "RelativeToolTip": "ejercicio10\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T01:44:10.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fgoro\\source\\repos\\Tp1\\ejercicio9\\Program.cs",
-              "RelativeDocumentMoniker": "ejercicio9\\Program.cs",
-              "ToolTip": "C:\\Users\\fgoro\\source\\repos\\Tp1\\ejercicio9\\Program.cs",
-              "RelativeToolTip": "ejercicio9\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T23:53:03.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fgoro\\source\\repos\\Tp1\\ejercicio8\\Program.cs",
-              "RelativeDocumentMoniker": "ejercicio8\\Program.cs",
-              "ToolTip": "C:\\Users\\fgoro\\source\\repos\\Tp1\\ejercicio8\\Program.cs",
-              "RelativeToolTip": "ejercicio8\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T23:49:00.699Z",
-              "EditorCaption": ""
             }
           ]
         }
