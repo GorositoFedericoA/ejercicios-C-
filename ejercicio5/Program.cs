@@ -18,7 +18,10 @@ namespace ejercicio5
         static void Main(string[] args)
         {
 
+<<<<<<< HEAD
             /*Dados los datos necesarios de un Rectángulo calcular la superficie.*/
+=======
+>>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
             int LadoA, LadoB;
             int Superf;
 

@@ -10,7 +10,10 @@ namespace ejercicio9
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             /*Dadas dos frases concatenarlas y mostrar el resultado. */
+=======
+>>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
 
             string frase1, frase2, frasecompleta;
 

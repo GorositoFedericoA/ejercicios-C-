@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\fgoro\\source\\repos\\ejercicios-C-\\",
+=======
+  "WorkspaceRootPath": "C:\\Users\\fgoro\\source\\repos\\Tp1\\",
+>>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -13,10 +17,13 @@
           "Children": [
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
+=======
+>>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]

@@ -21,8 +21,11 @@ namespace ejercicio6
         static void Main(string[] args)
         {
 
+<<<<<<< HEAD
             /*Si la circunferencia de un círculo es pi * Diámetro, desarrollar una aplicación que dada la circunferencia calcule el diámetro.*/
 
+=======
+>>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
             double Circunferencia;
             double Diam;
 

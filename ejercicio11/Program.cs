@@ -10,6 +10,7 @@ namespace ejercicio11
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             /*Dada una frase informar la cantidad de caracteres que tiene.*/
 
             string bienvenida = "Hola Mundo";
@@ -22,6 +23,8 @@ namespace ejercicio11
             Console.ReadKey();
 
 
+=======
+>>>>>>> f728ac3146626a747c40d4de35946d97068ccd2a
         }
     }
 }
