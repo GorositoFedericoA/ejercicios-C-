@@ -1,0 +1,7 @@
+C:\Users\fgoro\source\repos\ejercicios-C-\ejercicio15\bin\Debug\ejercicio15.exe.config
+C:\Users\fgoro\source\repos\ejercicios-C-\ejercicio15\bin\Debug\ejercicio15.exe
+C:\Users\fgoro\source\repos\ejercicios-C-\ejercicio15\bin\Debug\ejercicio15.pdb
+C:\Users\fgoro\source\repos\ejercicios-C-\ejercicio15\obj\Debug\ejercicio15.csproj.AssemblyReference.cache
+C:\Users\fgoro\source\repos\ejercicios-C-\ejercicio15\obj\Debug\ejercicio15.csproj.CoreCompileInputs.cache
+C:\Users\fgoro\source\repos\ejercicios-C-\ejercicio15\obj\Debug\ejercicio15.exe
+C:\Users\fgoro\source\repos\ejercicios-C-\ejercicio15\obj\Debug\ejercicio15.pdb

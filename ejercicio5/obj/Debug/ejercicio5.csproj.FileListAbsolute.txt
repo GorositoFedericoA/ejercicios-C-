@@ -1,0 +1,7 @@
+C:\Users\fgoro\source\repos\Tp1\ejercicio5\bin\Debug\ejercicio5.exe.config
+C:\Users\fgoro\source\repos\Tp1\ejercicio5\bin\Debug\ejercicio5.exe
+C:\Users\fgoro\source\repos\Tp1\ejercicio5\bin\Debug\ejercicio5.pdb
+C:\Users\fgoro\source\repos\Tp1\ejercicio5\obj\Debug\ejercicio5.csproj.AssemblyReference.cache
+C:\Users\fgoro\source\repos\Tp1\ejercicio5\obj\Debug\ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\fgoro\source\repos\Tp1\ejercicio5\obj\Debug\ejercicio5.exe
+C:\Users\fgoro\source\repos\Tp1\ejercicio5\obj\Debug\ejercicio5.pdb
