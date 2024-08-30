@@ -1,0 +1,7 @@
+C:\Users\fgoro\source\repos\Tp1\ejercicio6\bin\Debug\ejercicio6.exe.config
+C:\Users\fgoro\source\repos\Tp1\ejercicio6\bin\Debug\ejercicio6.exe
+C:\Users\fgoro\source\repos\Tp1\ejercicio6\bin\Debug\ejercicio6.pdb
+C:\Users\fgoro\source\repos\Tp1\ejercicio6\obj\Debug\ejercicio6.csproj.AssemblyReference.cache
+C:\Users\fgoro\source\repos\Tp1\ejercicio6\obj\Debug\ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\fgoro\source\repos\Tp1\ejercicio6\obj\Debug\ejercicio6.exe
+C:\Users\fgoro\source\repos\Tp1\ejercicio6\obj\Debug\ejercicio6.pdb
